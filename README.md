@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murillo</h1>
-<h3 align="center">A passionate software developer from Brussels</h3>
+<h3 align="center">A passionate student from 19 [42 Network]</h3>
 
 - 🌱 I’m currently learning **C++**
   
